@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cy-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 15713
+Implementation-Vendor-Id: com.ty
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cy/cy-web
+Created-By: Maven Integration for Eclipse
+
